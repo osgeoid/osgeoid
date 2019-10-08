@@ -1,0 +1,2 @@
+# osgeoid
+OSGEO-ID
