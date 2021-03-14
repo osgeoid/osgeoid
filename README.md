@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# The Open Source Geospatial - Indonesia Local Chapter (OSGeo ID)
 
-You can use the [editor on GitHub](https://github.com/osgeoid/osgeoid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+OSGeo ID merupakan sebuah wadah inisiatif para pegiat perangkat lunak Remote Sensing dan GIS Open Source di Indonesia. Inisiatif ini pertama kali dibuat pada tahun 2007 setelah Training for Trainer FOSS4G yang diselenggarakan di BPPT. Saat itu, Arnulf Christl sebagai Presiden OSGEO langsung turun sebagai trainer dengan materi Mapbender.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Setelah cukup lama tidak ada kegiatan, pada tanggal 4 Oktober 2019, OSGeo ID berusaha untuk kembali aktif yang ditandai dengan 1st Meetup di Kantor HOTOSM Indonesia di Jakarta. Pada meetup ini, ada empat sesi presentasi yang masing-masing dibawakan oleh Yantisa Akhadi, Andy Prasetya, Benny Istanto dan Iqnaul Siregar.
 
-### Markdown
+Repositori ini berisi dokumen dan korespondensi resmi terkait dengan kegiatan OSGeo di Indonesia. Akses dibatasi untuk sukarelawan yang bekerja dengan kami.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/osgeoid/osgeoid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![OSGeo](osgeoid-logo.png)

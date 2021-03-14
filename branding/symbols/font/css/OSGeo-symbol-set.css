@@ -1,0 +1,127 @@
+@font-face {
+  font-family: 'OSGeo-symbols-set';
+  src:  url('../fonts/OSGeo-symbols-set.eot');
+  src:  url('../fonts/OSGeo-symbols-set.eot#iefix') format('embedded-opentype'),
+    url('../fonts/OSGeo-symbols-set.ttf') format('truetype'),
+    url('../fonts/OSGeo-symbols-set.woff') format('woff'),
+    url('../fonts/OSGeo-symbols-set.svg#OSGeo-symbols-set') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="osgeo-"], [class*=" osgeo-"] {
+  font-family: 'OSGeo-symbols-set';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.osgeo-compass:before {
+  content: "\e000";
+}
+.osgeo-osgeolive:before {
+  content: "\e001";
+}
+.osgeo-geoforall:before {
+  content: "\e002";
+}
+.osgeo-foss4g:before {
+  content: "\e003";
+}
+.osgeo-gdal:before {
+  content: "\e004";
+}
+.osgeo-grass-gis:before {
+  content: "\e005";
+}
+.osgeo-mapserver:before {
+  content: "\e006";
+}
+.osgeo-postgis:before {
+  content: "\e007";
+}
+.osgeo-qgis:before {
+  content: "\e008";
+}
+.osgeo-geonetwork:before {
+  content: "\e009";
+}
+.osgeo-pycsw:before {
+  content: "\e010";
+}
+.osgeo-geonode:before {
+  content: "\e011";
+}
+.osgeo-geotools:before {
+  content: "\e012";
+}
+.osgeo-geoserver:before {
+  content: "\e013";
+}
+.osgeo-orfeotoolbox:before {
+  content: "\e014";
+}
+.osgeo-gvsig:before {
+  content: "\e015";
+}
+.osgeo-openlayers:before {
+  content: "\e016";
+}
+.osgeo-mapbender:before {
+  content: "\e017";
+}
+.osgeo-mapfish:before {
+  content: "\e018";
+}
+.osgeo-pywps:before {
+  content: "\e019";
+}
+.osgeo-mapguide:before {
+  content: "\e020";
+}
+.osgeo-marble:before {
+  content: "\e021";
+}
+.osgeo-geomoose:before {
+  content: "\e022";
+}
+.osgeo-geomajas:before {
+  content: "\e023";
+}
+.osgeo-zoo-project:before {
+  content: "\e024";
+}
+.osgeo-osgeo4w:before {
+  content: "\e025";
+}
+.osgeo-teamengine:before {
+  content: "\e026";
+}
+.osgeo-istsos:before {
+  content: "\e027";
+}
+.osgeo-opticks:before {
+  content: "\e028";
+}
+.osgeo-geowebcache:before {
+  content: "\e029";
+}
+.osgeo-pgrouting:before {
+  content: "\e030";
+}
+.osgeo-prontoraster:before {
+  content: "\e031";
+}
+.osgeo-portablegis:before {
+  content: "\e032";
+}
+.osgeo-mapcentia:before {
+  content: "\e033";
+}
+
+
